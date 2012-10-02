@@ -1,0 +1,9 @@
+
+1. Pull and Parse CSV of MTA schedule for F & 2.
+	- Need to pull Long/Lat for the stations serving lines F and 2, using google transit csv
+	- Need stop times for F and 2
+	- Train Number
+	- N or S bound
+
+2. For a given system time, need to find all F trains that are running.  (for now, need the stations they most recently were at)
+
